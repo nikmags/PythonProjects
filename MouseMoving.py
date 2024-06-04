@@ -1,3 +1,5 @@
+# Small lightweight mouse moving python program to not let your computer go to sleep.
+
 import pyautogui as pag
 import random
 import time
