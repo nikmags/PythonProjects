@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the provided CSV file
-file_path = '/Users/nikhilmaganti/Documents/Sum_of_Total_incomin_1718638344476.csv'
+file_path = '' # input file path here
 data = pd.read_csv(file_path)
 
 # Specify the columns to visualize
